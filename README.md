@@ -16,8 +16,9 @@
 <div>
   <a href="https://github.com/Gui1127">
     <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact&langs_cont=7&theme=github_dark"/>
-    
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact)](https://github.com/Gui1127/github-readme-stats)
+    <img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=Gui1127&show_icons=true&theme=github_dark&include_all_comits=true&count_private=true"/>
+    <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact&theme=github_dark&include_all_comits=true&count_private=true"/>
+    )](https://github.com/Gui1127/github-readme-stats)
   </a>
 </div>
 
