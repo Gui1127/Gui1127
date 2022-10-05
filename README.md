@@ -15,8 +15,8 @@
 ### Stats
 <div>
   <a href="https://github.com/Gui1127">
-    <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/Gui1127=anuraghazra&layout=compact&langs_cont=7&theme=github_dark"/>
-    <img height="180cm" scr="https://github-readme-stats.vercel.app/api/Gui1127=anuraghazra&show_icons=true&theme=github_dark&include_all_comits=true&count_private=true"/>
+    <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact&langs_cont=7&theme=github_dark"/>
+    <img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=Gui1127&show_icons=true&theme=github_dark&include_all_comits=true&count_private=true"/>
 
   </a>
 </div>
