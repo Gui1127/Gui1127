@@ -2,23 +2,31 @@
 
 - 🔭 Atualmente estou estudando web development
 - 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronomes: ele/dele
 
-### Tecnologias
+<br>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width= "60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width= "40"/>
 </div>
 
 ### Stats
+
 <div>
   <a href="https://github.com/Gui1127">
-    <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact&langs_cont=7&theme=github_dark"/>
-    <img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=Gui1127&show_icons=true&theme=github_dark&include_all_comits=true&count_private=true"/>
-    <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact&theme=github_dark&include_all_comits=true&count_private=true"/>
-    )](https://github.com/Gui1127/github-readme-stats)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui127&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui1127&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
+### Contatos
+
+<div>
+  <a href="https://www.linkedin.com/in/guilherme-lupe-jorge-277858250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:guilupe1127@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+</div>  
