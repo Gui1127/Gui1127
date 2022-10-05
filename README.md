@@ -1,4 +1,4 @@
-### Olá! meu nome é Guilherme Lupe, estou começando nessa área da programação.
+### Olá! Meu nome é Guilherme Lupe, estou começando nessa área da programação.
 
 - 🔭 Atualmente estou estudando web development
 - 🌱 Estudando HTML, CSS e JavaScript
@@ -16,8 +16,8 @@
 <div>
   <a href="https://github.com/Gui1127">
     <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact&langs_cont=7&theme=github_dark"/>
-    <img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=Gui1127&show_icons=true&theme=github_dark&include_all_comits=true&count_private=true"/>
-
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact)](https://github.com/Gui1127/github-readme-stats)
   </a>
 </div>
 
