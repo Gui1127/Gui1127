@@ -13,11 +13,10 @@
 
 ### Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/Gui1127">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui127&layout=compact&langs_count=7&theme=github_dark"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gui1127&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui1127&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui1127&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 ### Contatos
